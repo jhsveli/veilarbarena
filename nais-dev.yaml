@@ -54,6 +54,9 @@ spec:
         - application: veilarbregistrering
           namespace: paw
           cluster: dev-fss
+        - application: paw-proxy
+          namespace: paw
+          cluster: dev-fss
   vault:
     enabled: true
     paths:

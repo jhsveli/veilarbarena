@@ -50,6 +50,9 @@ spec:
         - application: veilarbregistrering
           namespace: paw
           cluster: prod-fss
+        - application: paw-proxy
+          namespace: paw
+          cluster: prod-fss
   vault:
     enabled: true
     paths:
