@@ -37,7 +37,7 @@ public class EnvironmentProperties {
 
     private String tiltaksgjennomforingApiClientId;
 
-    private String veilarbregistreringClientId;
+    private String pawProxyClientId;
 
     private String naisStsDiscoveryUrl;
 

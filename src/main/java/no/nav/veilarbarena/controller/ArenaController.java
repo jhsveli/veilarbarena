@@ -46,7 +46,7 @@ public class ArenaController {
                     environmentProperties.getPoaoGcpProxyClientId(),
                     environmentProperties.getAmtTiltakClientId(),
                     environmentProperties.getTiltaksgjennomforingApiClientId(),
-                    environmentProperties.getVeilarbregistreringClientId()
+                    environmentProperties.getPawProxyClientId()
             );
         }
 
